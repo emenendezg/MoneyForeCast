@@ -1,0 +1,14 @@
+Este es el resumen de este proyecto.
+
+La idea de este proyecto es empezar a conocer git, realizando para elllo una pequeño proyecto
+
+Requerimientos:
+
+- Agregar un gasto o ingreso con la fecha de aplicación y un criterio de repetición.
+- El criterio de repetición debe permitir definir
+    Cantidad de repeticiones o Fecha de fin de repeticiones
+    Tiempo entre repeticiones
+- Debo poder eliminar o modificar una repetición sin afectar a la secuencia de las demás
+- Mostrar una corrida de gastos en el futuro que permita ver el estado de las cuentas luego de aplicados los gastos o ingresos programados
+- Se debe poder manejar más de una cuenta, por lo que los ingresos y gastos deben ser asignados a las cuentas
+- Se debe poder programar transferencias entre cuentas con el mismo mecanismo que gastos e ingresos
